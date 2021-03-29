@@ -33,6 +33,13 @@ Sometimes the code is not pythonic, why?
 - Python offers most of the functionality with a single method call, but one cannot see what is going on.
   - Examples: methods index() and sort() for lists instead of algorithms searching and sorting functions.
 
+I found several code duplicates. Is this a good style of programming?
+- No, definitively not!
+- I decided to do this for didactical reasons - again.
+  - Every notebook shall be usable stand-alone without loading additional functionality from other files.
+  - In the notebooks duplicates could be prevented by using dedicated methods, but this would increase the amount of code to look at.
+- Try to prevent code duplicates in any productive software.
+
 Why Jupyter notebooks?
 - It is a good way to work with Python code.
 - Simply use it on your computer without any software installation by launching the binder.
