@@ -14,6 +14,10 @@ For more details please look into [the FAQs](FAQs.md).
 * For execution of the complete code in a notebook click on "Kernel", then on "Restart & Run All"
 * Before running parts of a notebook (e.g. after you changed something), you first need to execute the complete code
 * At the end of your experiments click on "File", then on "Close and Halt"
-* Note that you cannot save your work if you do not work locally on your computer or in a repository you own.
+* Note that you cannot save your work such that it is available when you launch the binder next time. 
+* But there are different possibilities, for example:
+  * Work locally on your computer or in a repository you own. You need appropriate software installed on your computer.
+  * Save the files to browser cache and restore them later. There are two buttons in Jupyter notebook.
+* Find the right way for you to work with this code and consider the respective documentation for it.
 
 ## Have fun using it!
