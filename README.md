@@ -14,5 +14,6 @@ For more details please look into [the FAQs](FAQs.md).
 * For execution of the complete code in a notebook click on "Kernel", then on "Restart & Run All"
 * Before running parts of a notebook (e.g. after you changed something), you first need to execute the complete code
 * At the end of your experiments click on "File", then on "Close and Halt"
+* Note that you cannot save your work if you do not work locally on your computer or in a repository you own.
 
 ## Have fun using it!
