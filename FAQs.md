@@ -1,5 +1,3 @@
-Supplemental material for lecture Algorithms and Data Structures - not only at Frankfurt University of Applied Sciences
-
 Interested in a some more information? - Sure, here we go, see my answers to questions you might have.
 
 What is the main idea behind this approach?
