@@ -1,17 +1,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JensLiebehenschel/AlgDat/HEAD)
 <-- click here to open the Jupyter notebooks without any installation in a web browser
+
 # AlgDat
-Supplemental material for lecture Algorithms and Data Structures
+Supplemental material for lecture Algorithms and Data Structures - not only at Frankfurt University of Applied Sciences
 
-What can you do with the different variants?
-- Play around with the algorithms and data structures
-- Get statistics about the behavior
-- Look at the visualization
+This repository provides Jupyter notebooks for basic algorithms and data structures.
+You can play around with the code in many ways.
+The intention is to deepen the undestanding. 
 
-Feel free to modify the code to obtain the information you want to have like
-- other data
-- more statistics
-- other visualizations 
-- ...
+For more details please look into [the FAQs](FAQs.md).
 
-Playing around with the code helps to understand the algorithms and data structures.
+Have fun using it!
