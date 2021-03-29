@@ -51,6 +51,11 @@ What can I do with the provided Jupyter notebooks?
   - Example: Modifications for getting other statistics or different visualizations.
 - You can play around with the code and adapt it to your individual needs.
 
+Do I need to use the launch binder icon to work with the notebooks?
+- No, you certainly can download the code or fork the repository and work locally on your computer.
+- Anyway, you need the have a working installation of Jupyter notebooks. (I used version 6.1.4 with python 3.8.5 for initial development.)
+- In this case you can also save your changes in your environment.
+
 Why are there different notebooks for all algorithms and data structures?
 - Quite simple, they have different objectives.
 - You always find one with the basic functionality, here you can start using the algorithms.
