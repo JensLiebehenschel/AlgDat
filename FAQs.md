@@ -9,8 +9,13 @@ What is the main idea behind this approach?
 
 What is the history of this approach?
 - Since I lectured algorithms and data structures for the first time in 2016 I was looking for a good visualization of algorithms.
+- There was a prototype for visualizing sorting algorithms.
+  - Different algorithms were implemented.
+  - A generic approach for the helping functions e.g. for visualization was implemented.
 - From time to time I looked at it but most of the time neglected working on it.
 - During preparation of the lecture for summer 2021 the topic came back to my focus.
+  - The main point was to simplify working on a single algorithm and/or data structure.
+  - This resulted in removing the generic approach to simplify the code at the price of increasing redundancy.
 
 Why was this public repository created?
 - It is easier to access it from outside the university network.
@@ -71,6 +76,7 @@ How to start?
 - First, select an algorithm or a data structure you want to understand.
 - Then have a look at the available notebooks and understand what is implemented, the notebook name describes the content.
 - Finally adapt the code to see what happens. Does it behave as expected?
+- You also can work with several notebokks in parallel, e.g. compare the number of key comparisions and key exchanges by two sorting algorithms.
 
 Will there be more algorithms and data structures in the future?
 - Maybe, we will see.
