@@ -73,9 +73,14 @@ Why are there different statistics for different algorithms?
 
 How to start?
 - Several possibilities, you first need to know what you want to look at.
+- Here are only some ideas, there are many more possibilities.
 - First, select an algorithm or a data structure you want to understand.
 - Then have a look at the available notebooks and understand what is implemented, the notebook name describes the content.
 - Finally adapt the code to see what happens. Does it behave as expected?
+  - Modify the code, e.g. invert the sorting order of sorting algorithms.
+  - Add additional outputs to observe the behavior.
+  - Add additional statistics to better understand what happens at runtime.
+  - The visualization notebooks contain boolean variables to control the output. Modify them and observe the behavior.
 - You also can work with several notebokks in parallel, e.g. compare the number of key comparisions and key exchanges by two sorting algorithms.
 
 Will there be more algorithms and data structures in the future?
