@@ -71,6 +71,11 @@ Why are there different statistics for different algorithms?
 - I tried to show different aspects that gain insight into the behavior of the algorithms.
 - If you would like to see other statistics, please implement them on your own.
 
+Is there any documentation for the notebooks?
+- Yes and no!
+- Yes, inside the notebooks, some hopefully useful information in headings and code comments, and also speaking names in the code.
+- No, there is no separate description outside the code. Anyway, the code is quite small and should be understandable in acceptable time.
+
 How to start?
 - Several possibilities, you first need to know what you want to look at.
 - Here are only some ideas, there are many more possibilities.
