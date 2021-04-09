@@ -9,6 +9,7 @@ You can play around with the code in many ways.
 The intention is to deepen the undestanding by adapting and running the code. 
 
 For more details please look into [the FAQs](FAQs.md).
+For a motivation what kind of information the notebooks provide, see some examples below.
 
 ## Important points when working with Jupiter Notebooks
 * For execution of the complete code in a notebook click on "Kernel", then on "Restart & Run All"
@@ -21,3 +22,12 @@ For more details please look into [the FAQs](FAQs.md).
 * Find the right way for you to work with this code and consider the respective documentation for it.
 
 ## Have fun using it!
+
+Here are some pictures to get an idea of what can be done with the notebooks.
+The pictures contain explanatory text and in the queue example the words "head" and "tail" were added for a better understanding.
+
+[bubblesort](Pictures/bubblesort.png)
+
+[mergesort](Pictures/mergesort.png)
+
+[queue](Pictures/queue.png)
