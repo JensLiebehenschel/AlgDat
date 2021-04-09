@@ -25,9 +25,12 @@ For a motivation what kind of information the notebooks provide, see some exampl
 
 Here are some pictures to get an idea of what can be done with the notebooks.
 The pictures contain explanatory text and in the queue example the words "head" and "tail" were added for a better understanding.
+In the notebooks, this information is visible in the code.
 
 ![bubblesort](Pictures/bubblesort.png)
 
+
 ![mergesort](Pictures/mergesort.png)
+
 
 ![queue](Pictures/queue.png)
