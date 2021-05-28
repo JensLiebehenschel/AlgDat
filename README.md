@@ -11,7 +11,7 @@ The intention is to deepen the undestanding by adapting and running the code.
 For more details please look into [the FAQs](FAQs.md).
 For a motivation what kind of information the notebooks provide, see some examples below.
 
-## Important points when working with Jupiter Notebooks
+## Important points when working with Jupyter Notebooks
 * For execution of the complete code in a notebook click on "Kernel", then on "Restart & Run All"
 * Before running parts of a notebook (e.g. after you changed something), you first need to execute the complete code
 * At the end of your experiments click on "File", then on "Close and Halt"
