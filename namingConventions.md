@@ -4,3 +4,5 @@
 * this_is_a_function_name(...) or function(...)
 * THIS_IS_A_GLOBAL_VARIABLE or VARIABLE
 * ThisIsAClassName or Class
+
+For more details see for example https://peps.python.org/pep-0008/.
