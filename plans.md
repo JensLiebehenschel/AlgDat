@@ -1,5 +1,5 @@
 ## Current work
-* Visualization of Priority Queue (with each step and key comparison, also similar to stack and queue)
+* BFS and DFS
 
 ## Ideas for future work
 #### Linear data structures
