@@ -37,3 +37,5 @@ In the notebooks, this information is visible in the code.
 
 
 ![queue](Pictures/queue.png)
+
+Many thanks to Edward Späth for extending this repository. Several new algorithms (on non-linear data) had been added. Very good job!
