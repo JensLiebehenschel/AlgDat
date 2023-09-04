@@ -1,6 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JensLiebehenschel/AlgDat/HEAD)
 **<-- click here to open the Jupyter notebooks without any installation in a web browser**
 
+Note that sometimes building the necessary image by mybinder takes several minutes.
+Any further start is much faster.
+We also saw that it did not work, then please try again later.
+
 ## AlgDat
 Supplemental material for lecture Algorithms and Data Structures - not only at Frankfurt University of Applied Sciences
 
