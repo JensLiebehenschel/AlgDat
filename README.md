@@ -10,7 +10,12 @@ Supplemental material for lecture Algorithms and Data Structures - not only at F
 
 This repository provides Jupyter notebooks with the implementation of basic algorithms and data structures.
 You can play around with the code in many ways.
+
 The intention is to deepen the undestanding by adapting and running the code.
+
+The intention is not to explain the algorithms.
+It shall be supplemntal material, certainly with necessary comments and hints.
+
 We use simple [naming conventions](namingConventions.md) here.
 
 For more details please look into [the FAQs](FAQs.md).
