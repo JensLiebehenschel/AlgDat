@@ -8,7 +8,7 @@ We also saw that it did not work, then please try again later.
 ## AlgDat
 Supplemental material for lecture Algorithms and Data Structures - not only at Frankfurt University of Applied Sciences
 
-This repository provides Jupyter notebooks with the implementation of basic algorithms and data structures.
+This repository provides about 50 Jupyter notebooks (April 2024) with the implementation of basic algorithms and data structures.
 You can play around with the code in many ways.
 
 The intention is to deepen the undestanding by adapting and running the code.
