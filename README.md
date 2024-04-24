@@ -29,8 +29,8 @@ For a motivation what kind of information the notebooks provide, see some exampl
 * At the end of your experiments click on "File", then on "Shutdown".
 * Note that you cannot save your work such that it is available when you launch the binder next time.
 * But there are different possibilities, see "File" menu, for example:
-  * Work locally on your computer or in a repository you own. You need appropriate software installed on your computer.
   * Save the files to browser cache and restore them later. There are two buttons in Jupyter notebook.
+  * Work locally on your computer or in a repository you own. You need appropriate software installed on your computer in that case.
 * Find the right way for you to work with this code and consider the respective documentation for it.
 
 ## Have fun using it!
