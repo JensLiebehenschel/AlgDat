@@ -8,13 +8,13 @@ We also saw that it did not work, then please try again later.
 ## AlgDat
 Supplemental material for lecture Algorithms and Data Structures - not only at Frankfurt University of Applied Sciences
 
-This repository provides Jupyter notebooks with the implementation of basic algorithms and data structures.
+This repository provides about 50 Jupyter notebooks (April 2024) with the implementation of basic algorithms and data structures.
 You can play around with the code in many ways.
 
 The intention is to deepen the undestanding by adapting and running the code.
 
 The intention is not to explain the algorithms.
-It shall be supplemntal material, certainly with necessary comments and hints.
+It shall be supplemental material, certainly with necessary comments and hints.
 
 We use simple [naming conventions](namingConventions.md) here.
 
@@ -29,8 +29,8 @@ For a motivation what kind of information the notebooks provide, see some exampl
 * At the end of your experiments click on "File", then on "Shutdown".
 * Note that you cannot save your work such that it is available when you launch the binder next time.
 * But there are different possibilities, see "File" menu, for example:
-  * Work locally on your computer or in a repository you own. You need appropriate software installed on your computer.
   * Save the files to browser cache and restore them later. There are two buttons in Jupyter notebook.
+  * Work locally on your computer or in a repository you own. You need appropriate software installed on your computer in that case.
 * Find the right way for you to work with this code and consider the respective documentation for it.
 
 ## Have fun using it!
