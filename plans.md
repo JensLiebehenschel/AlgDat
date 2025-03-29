@@ -1,6 +1,5 @@
 ## Current work
 * Bin packing
-* Knapsack problems
 
 ## Ideas for future work
 #### Linear data structures
