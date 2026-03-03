@@ -5,6 +5,7 @@ What is the main idea behind this approach?
 - There was one main criterion: It should be a static view that discloses the steps of algorithms "at a glance".
 - Obviously, this is much easier for algorithms working with linear data structures than with graphs, for example.
   - For linear data structures we can use an additional dimension (e.g. the x axis) for visualization of the behavior over time.
+  - We also tried to find good visualization in the other cases.
 - All notebooks are stand-alone, i.e. can be used without the others.
 
 What is the history of this approach?
@@ -16,6 +17,31 @@ What is the history of this approach?
 - During preparation of the lecture for summer 2021 the topic came back to my focus.
   - The main point was to simplify working on a single algorithm and/or data structure.
   - This resulted in removing the generic approach to simplify the code at the price of increasing redundancy.
+  
+Why is the visualization for linear data structures rotated?
+- There are two dimensions:
+  - the number of data elements and 
+  - the steps during the processing of the data.
+- I needed to decide for one, since I did not want to implement both solutions.
+  - Well, it is "just" the transposed matrix, but there will be some formatting issues.
+- I decided to implement this orientation for these reasons:
+  - In general, there are more steps than data elements.
+  - I wanted to have the overview "at a glance" on a monitor and a projector.
+
+Can I have a hint for reading the visualizations?
+- Sure, hopefully it is readable.
+- On the left is the visualization used here for linear data structures and on the right the other possible orientation.
+  ~~~
+  1   2   3       |   S   D a t a 1
+  a   a   a      \|/  t
+  t   t   t           e   D a t a 2
+  a   a   a       |   p
+  D   D   D      \|/  s   D a t a 3
+    Steps
+    -> ->
+  ~~~
+- Both diagrams contain the same information: three (directed) steps with different data.
+- Maybe looking at the real visualizations is easier, there are legends for the axes.
 
 Why was this public repository created?
 - It is easier to access it from outside the university network.
@@ -102,4 +128,4 @@ Anything else?
 - The more you play around with the code, the deeper your understanding might get.
 - Have fun using the notebooks and learning!
 
-Jens Liebehenschel, liebehenschel@fb2.fra-uas.de, Frankfurt University of Applied Sciences, FB2, Computer Science, March 2021
+Jens Liebehenschel, liebehenschel@fra-uas.de, Frankfurt University of Applied Sciences, FB2, Computer Science, March 2021 - March 2026
