@@ -128,4 +128,4 @@ Anything else?
 - The more you play around with the code, the deeper your understanding might get.
 - Have fun using the notebooks and learning!
 
-Jens Liebehenschel, liebehenschel@fra-uas.de, Frankfurt University of Applied Sciences, FB2, Computer Science, March 2021 - March 2026
+Jens Liebehenschel, https://frankfurt-university.de/liebehenschel, liebehenschel@fra-uas.de, Frankfurt University of Applied Sciences, FB2, Computer Science, March 2021 - March 2026
