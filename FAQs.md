@@ -26,7 +26,8 @@ Why is the visualization for linear data structures rotated?
   - Well, it is "just" the transposed matrix, but there will be some formatting issues.
 - I decided to implement this orientation for these reasons:
   - In general, there are more steps than data elements.
-  - I wanted to have the overview "at a glance" on a monitor and a projector.
+  - Ciphers are higher than wider, thus need less space horizontally.
+  - I wanted to have the overview "at a glance" on a monitor and a projector which are wider than higher.
 
 Can I have a hint for reading the visualizations?
 - Sure, hopefully it is readable.
